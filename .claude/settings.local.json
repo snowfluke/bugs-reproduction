@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(bun install:*)",
+      "Bash(bunx:*)",
+      "Bash(bun run index.ts)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
