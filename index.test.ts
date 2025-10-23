@@ -16,7 +16,7 @@ describe("OCR Sample test", () => {
     const testCases = [
       {
         imageFile: "test.png",
-        jsonFile: "001.json",
+        jsonFile: "test.json",
       },
     ];
 
